@@ -16,4 +16,4 @@ Install the docker toolbox
 Navigate to root directory from CMD. 
 Run the command docker build -t project-node .
 Run the command docker run -d -p 1200:1200 project-node
-Copy the IP address from docker toolbox and paste in browser alongwith assigned port number. 
+Copy the IP address from docker toolbox and paste in browser alongwith assigned port number.
